@@ -1,6 +1,8 @@
 import React from "react";
 import "../styles/index.scss";
 import Recipes from "./Recipes";
+import sword from '../images/team-2.png'
+
 
 const App = () => {
   return (
@@ -10,8 +12,9 @@ const App = () => {
         <section>
           <h1>Oh. Hai, React</h1>
         </section>
+        <img src={sword} alt="sword" width="350" />
+        <Recipes />
       </main>
-      <Recipes />
     </>
   );
 };
