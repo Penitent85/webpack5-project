@@ -1,1 +1,0 @@
-{"version":3,"file":"main.css","mappings":"AAAA,MACI,aCEJ,KACI,SACA,wBDDC,CCED,6BAIJ,KACE,qDACA,yGACA,kEAGF,OACE,iBAGF,GACE,yDCrBF,MACI,mDACA,sBACA,2BACA,iBACA,4mB","sources":["webpack://webpack-project/./src/styles/_variables.scss","webpack://webpack-project/./src/styles/_global.scss","webpack://webpack-project/./src/styles/_hero.scss"],"names":[],"sourceRoot":""}

@@ -10,9 +10,9 @@ const App = () => {
       <section className="hero"></section>
       <main>
         <section>
-          <h1>Oh. Hai, React</h1>
+          <h1>Oh. Hai, React , How are you?</h1>
         </section>
-        <img src={sword} alt="sword" width="350" />
+        {/* <img src={sword} alt="sword" width="350" /> */}
         <Recipes />
       </main>
     </>
